@@ -1,0 +1,19 @@
+{
+    "banner":[
+        {
+            "id":1,
+            "imgUrl": "https://static.maizuo.com/v5/upload/87a55ca3c9c0a67faf725460038bae9f.jpg",
+            "title": "黑客帝国"
+        },
+        {
+            "id":2,
+            "imgUrl": "https://static.maizuo.com/v5/upload/7872260e6325304a788094ea4c8c04e2.jpg",
+            "title": "最初的梦想"
+        },
+        {
+            "id":3,
+            "imgUrl":"https://static.maizuo.com/v5/upload/f6cc1510a17ce3d424fac9a88c87db03.jpg",
+            "title":"误杀"
+        }
+    ]
+}
